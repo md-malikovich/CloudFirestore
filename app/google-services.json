@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733922615109",
+    "firebase_url": "https://cloudfirestore-dd851.firebaseio.com",
+    "project_id": "cloudfirestore-dd851",
+    "storage_bucket": "cloudfirestore-dd851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733922615109:android:721dd7472922d3a2e5682c",
+        "android_client_info": {
+          "package_name": "com.e.cloudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733922615109-c133jo5049bai02o2ims564juqusolnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Dz8mKZQw9eOSzsj8Ygh8wV5iYIzVgMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733922615109-c133jo5049bai02o2ims564juqusolnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
